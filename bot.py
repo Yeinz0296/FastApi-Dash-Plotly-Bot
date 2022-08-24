@@ -95,7 +95,7 @@ def error(update, context):
 
 def main():
     """Start the bot."""
-    TOKEN = "5425406766:AAEzQ2Ol_rqdASl6_s9Ov1VPWlVaNf_397c"
+    TOKEN = "AddYourOwnToken"
     updater = Updater(TOKEN, use_context=True)
 
     # Get the dispatcher to register handlers
