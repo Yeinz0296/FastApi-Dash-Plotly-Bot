@@ -3,7 +3,7 @@ import datetime as dt
 import pandas as pd
 
 # worksheet id
-id = '1aP6cJ6rlJpO-mleVrRYR9ALwoq0lGhWe03AnYGeiZfk'
+id = 'YOURGOOGLESHEET ID LINK'
 
 # authorization
 gc = pygsheets.authorize(service_file='service_account.json')
